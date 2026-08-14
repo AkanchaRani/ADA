@@ -1,4 +1,4 @@
-/*23 students are sitting in a circle. Each student starts with ₹100. 
+/*23 students are sitting roll no. wise. Each student starts with ₹100. 
 Whenever a student receives money, they keep ₹1 and pass the remaining money to the next student.
  We need to find how much each student finally has and who is the last student.*/
 
